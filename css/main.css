@@ -1,3 +1,59 @@
+/*Global*/
+
 body {
     background-color: #E5E5E5;
+    align-items: center;
+    
+}
+
+/*seccion1*/
+
+
+h1.titulo  {
+    position: absolute;
+width: 321px;
+height: 74px;
+left: 350px;
+top: 25px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+color: #FFFFFF;
+font-size: 64px;
+line-height: 74px;
+}
+
+/*seccion 2*/
+
+h2.presentacion {
+    position: absolute;
+width: 361px;
+height: 97px;
+left: 68px;
+top: 286px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+color: #FFFFFF;
+font-size: 36px;
+line-height: 42px;
+
+position: absolute;
+width: 365px;
+height: 117px;
+left: 52px;
+top: 270px;
+
+background: rgba(114, 153, 254, 0.5);
+border-radius: 10px;
+}
+
+
+
+/*seccion 3*/
+
+h2.skills {
+background: #9122FF;
 }
